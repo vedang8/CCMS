@@ -1,9 +1,13 @@
 import React from 'react'
 
-function index() {
+function Register() {
   return (
-    <div>index</div>
+    <div className='h-screen bg-primary flex justify-center items-center'>
+      <div className='bg-white p-3 rounded'>
+
+      </div>
+    </div>
   )
 }
 
-export default index
+export default Register
