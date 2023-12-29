@@ -17,7 +17,10 @@ root.render(
               colorPrimaryHover: '#1a2e05',
               borderRadius: '0px'
             }
-        }
+        },
+        token:{
+          borderRadius: "2px"
+        },
      }}
     >
       <App />
